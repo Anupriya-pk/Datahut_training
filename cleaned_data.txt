@@ -1,338 +1,192 @@
-[
-  {
-    "productId": 10058013,
-    "name": "Phalaenopsis special colours Mix",
-    "price": 12.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/phalaenopsis-special-colours-mix/p10058013"
-  },
-  {
-    "productId": 10058014,
-    "name": "Gefärbte Orchidee in Spezial-Keramik",
-    "price": 14.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/gefaerbte-orchidee-in-spezial-keramik/p10058014"
-  },
-  {
-    "productId": 10058015,
-    "name": "Phalaenopsis in Sonderformen",
-    "price": 14.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/phalaenopsis-in-sonderformen/p10058015"
-  },
-  {
-    "productId": 10054725,
-    "name": "CIEN Lippenpflegestick LSF50+",
-    "price": 3.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-lippenpflegestick-lsf50/p10054725"
-  },
-  {
-    "productId": 10054727,
-    "name": "CIEN Sonnencreme für Kinder LSF50+",
-    "price": 3.76,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnencreme-fuer-kinder-lsf50/p10054727"
-  },
-  {
-    "productId": 10054728,
-    "name": "CIEN Sun Sonnenöl-Spray LSF 20",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sun-sonnenoel-spray-lsf-20/p10054728"
-  },
-  {
-    "productId": 10058054,
-    "name": "PARKSIDE 20 V Akku-Handstaubsauger",
-    "price": 19.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/parkside-20-v-akku-handstaubsauger/p10058054"
-  },
-  {
-    "productId": 10052386,
-    "name": "CIEN Sonnenspray Sport transparent LSF 30",
-    "price": 3.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenspray-sport-transparent-lsf-30/p10052386"
-  },
-  {
-    "productId": 10052387,
-    "name": "CIEN Sonnenmilch LSF50",
-    "price": 4.69,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenmilch-lsf50/p10052387"
-  },
-  {
-    "productId": 10052388,
-    "name": "CIEN Sonnenspray Sport transparent LSF50+",
-    "price": 5.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenspray-sport-transparent-lsf50/p10052388"
-  },
-  {
-    "productId": 10052389,
-    "name": "CIEN SUN Sonnenöl-Spray LSF 20",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sun-sonnenoel-spray-lsf-20/p10052389"
-  },
-  {
-    "productId": 10052390,
-    "name": "CIEN Sonnenspray für Kinder LSF50+",
-    "price": 5.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenspray-fuer-kinder-lsf50/p10052390"
-  },
-  {
-    "productId": 10052391,
-    "name": "CIEN Sonnenspray für Kinder LSF50",
-    "price": 6.49,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenspray-fuer-kinder-lsf50/p10052391"
-  },
-  {
-    "productId": 10052392,
-    "name": "CIEN Gesichtsfluid LSF50+",
-    "price": 3.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-gesichtsfluid-lsf50/p10052392"
-  },
-  {
-    "productId": 10052393,
-    "name": "CIEN Après Sun Lotion",
-    "price": 2.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-apres-sun-lotion/p10052393"
-  },
-  {
-    "productId": 10052394,
-    "name": "CIEN Sonnenmilch LSF30",
-    "price": 2.95,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenmilch-lsf30/p10052394"
-  },
-  {
-    "productId": 10058404,
-    "name": "ZOOFARI 3-in-1 Kratzpappe",
-    "price": 3.49,
-    "currency": "CHF",
-    "url": "/p/de-CH/zoofari-3-in-1-kratzpappe/p10058404"
-  },
-  {
-    "productId": 10054726,
-    "name": "CIEN Sonnenmilch LSF50+",
-    "price": 2.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/cien-sonnenmilch-lsf50/p10054726"
-  },
-  {
-    "productId": 10057994,
-    "name": "LIVARNO LED-Deckenleuchte",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-led-deckenleuchte/p10057994"
-  },
-  {
-    "productId": 10057995,
-    "name": "LIVARNO LED-Deckenleuchte",
-    "price": 29.9,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-led-deckenleuchte/p10057995"
-  },
-  {
-    "productId": 10057996,
-    "name": "LIVARNO LED-Deckenleuchte",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-led-deckenleuchte/p10057996"
-  },
-  {
-    "productId": 10057997,
-    "name": "LIVARNO LED-Tischleuchte",
-    "price": 8.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-led-tischleuchte/p10057997"
-  },
-  {
-    "productId": 10057998,
-    "name": "LIVARNO LED-Stehleuchte",
-    "price": 29.9,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-led-stehleuchte/p10057998"
-  },
-  {
-    "productId": 10057999,
-    "name": "LIVARNO Renforcé-Bettwäsche",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-renforce-bettwaesche/p10057999"
-  },
-  {
-    "productId": 10058000,
-    "name": "LIVARNO Renforcé-Bettwäsche",
-    "price": 19.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-renforce-bettwaesche/p10058000"
-  },
-  {
-    "productId": 10058001,
-    "name": "LIVARNO Kuscheldecke",
-    "price": 7.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-kuscheldecke/p10058001"
-  },
-  {
-    "productId": 10058002,
-    "name": "LIVARNO Matratzenauflage",
-    "price": 14.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/livarno-matratzenauflage/p10058002"
-  },
-  {
-    "productId": 10057987,
-    "name": "MEXX Sweathoodie/Shirt",
-    "price": 24.9,
-    "currency": "CHF",
-    "url": "/p/de-CH/mexx-sweathoodie-shirt/p10057987"
-  },
-  {
-    "productId": 10057988,
-    "name": "MEXX Sweathoodie/Shirt",
-    "price": 24.9,
-    "currency": "CHF",
-    "url": "/p/de-CH/mexx-sweathoodie-shirt/p10057988"
-  },
-  {
-    "productId": 10057989,
-    "name": "MEXX Sweathose",
-    "price": 17.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/mexx-sweathose/p10057989"
-  },
-  {
-    "productId": 10057990,
-    "name": "MEXX Sweathose",
-    "price": 17.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/mexx-sweathose/p10057990"
-  },
-  {
-    "productId": 10058012,
-    "name": "ESMARA Kuschelsocken, 3er-Set",
-    "price": 2.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-kuschelsocken-3er-set/p10058012"
-  },
-  {
-    "productId": 10058018,
-    "name": "ESMARA Trenchjacke",
-    "price": 14.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-trenchjacke/p10058018"
-  },
-  {
-    "productId": 10058023,
-    "name": "ESMARA Steppweste",
-    "price": 12.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-steppweste/p10058023"
-  },
-  {
-    "productId": 10058025,
-    "name": "ESMARA Jeans Super Skinny Fit",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-jeans-super-skinny-fit/p10058025"
-  },
-  {
-    "productId": 10058026,
-    "name": "ESMARA Jogger",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-jogger/p10058026"
-  },
-  {
-    "productId": 10058027,
-    "name": "ESMARA Thermoleggings/-strumpfhose/-kniestrümpfe, 2er-Set",
-    "price": 2.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-thermoleggings-strumpfhose-kniestruempfe-2er-set/p10058027"
-  },
-  {
-    "productId": 10058028,
-    "name": "ESMARA Stiefeletten",
-    "price": 12.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-stiefeletten/p10058028"
-  },
-  {
-    "productId": 10058035,
-    "name": "ESMARA MEN Pantoletten",
-    "price": 9.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/esmara-men-pantoletten/p10058035"
-  },
-  {
-    "productId": 10057974,
-    "name": "LUPILU Sweatanzug, 2-tlg.",
-    "price": 6.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-sweatanzug-2-tlg/p10057974"
-  },
-  {
-    "productId": 10057975,
-    "name": "LUPILU Bodys, 2er-Set",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-bodys-2er-set/p10057975"
-  },
-  {
-    "productId": 10057976,
-    "name": "LUPILU Sweatpullover",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-sweatpullover/p10057976"
-  },
-  {
-    "productId": 10057978,
-    "name": "LUPILU Sweathose",
-    "price": 6.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-sweathose/p10057978"
-  },
-  {
-    "productId": 10057979,
-    "name": "LUPILU Leggings, 2er-Set",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-leggings-2er-set/p10057979"
-  },
-  {
-    "productId": 10057980,
-    "name": "LUPILU Schlafsack",
-    "price": 12.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lupilu-schlafsack/p10057980"
-  },
-  {
-    "productId": 10057981,
-    "name": "ANSMANN Sternenlicht-Leuchte",
-    "price": 14.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/ansmann-sternenlicht-leuchte/p10057981"
-  },
-  {
-    "productId": 10057984,
-    "name": "INFANTINO Trinkbecher",
-    "price": 4.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/infantino-trinkbecher/p10057984"
-  },
-  {
-    "productId": 10057985,
-    "name": "LEGO Spiel-Set",
-    "price": 6.99,
-    "currency": "CHF",
-    "url": "/p/de-CH/lego-spiel-set/p10057985"
-  }
-]
+Name: Phalaenopsis special colours Mix
+Price: 12.99
+Currency: CHF
+
+Name: Gefärbte Orchidee in Spezial-Keramik
+Price: 14.99
+Currency: CHF
+
+Name: Phalaenopsis in Sonderformen
+Price: 14.99
+Currency: CHF
+
+Name: CIEN Lippenpflegestick LSF50+
+Price: 3.99
+Currency: CHF
+
+Name: CIEN Sonnencreme für Kinder LSF50+
+Price: 3.76
+Currency: CHF
+
+Name: CIEN Sun Sonnenöl-Spray LSF 20
+Price: 4.99
+Currency: CHF
+
+Name: PARKSIDE 20 V Akku-Handstaubsauger
+Price: 19.99
+Currency: CHF
+
+Name: CIEN Sonnenspray Sport transparent LSF 30
+Price: 3.99
+Currency: CHF
+
+Name: CIEN Sonnenmilch LSF50
+Price: 4.69
+Currency: CHF
+
+Name: CIEN Sonnenspray Sport transparent LSF50+
+Price: 5.99
+Currency: CHF
+
+Name: CIEN SUN Sonnenöl-Spray LSF 20
+Price: 4.99
+Currency: CHF
+
+Name: CIEN Sonnenspray für Kinder LSF50+
+Price: 5.99
+Currency: CHF
+
+Name: CIEN Sonnenspray für Kinder LSF50
+Price: 6.49
+Currency: CHF
+
+Name: CIEN Gesichtsfluid LSF50+
+Price: 3.99
+Currency: CHF
+
+Name: CIEN Après Sun Lotion
+Price: 2.99
+Currency: CHF
+
+Name: CIEN Sonnenmilch LSF30
+Price: 2.95
+Currency: CHF
+
+Name: ZOOFARI 3-in-1 Kratzpappe
+Price: 3.49
+Currency: CHF
+
+Name: CIEN Sonnenmilch LSF50+
+Price: 2.99
+Currency: CHF
+
+Name: LIVARNO LED-Deckenleuchte
+Price: 9.99
+Currency: CHF
+
+Name: LIVARNO LED-Deckenleuchte
+Price: 29.9
+Currency: CHF
+
+Name: LIVARNO LED-Deckenleuchte
+Price: 9.99
+Currency: CHF
+
+Name: LIVARNO LED-Tischleuchte
+Price: 8.99
+Currency: CHF
+
+Name: LIVARNO LED-Stehleuchte
+Price: 29.9
+Currency: CHF
+
+Name: LIVARNO Renforcé-Bettwäsche
+Price: 9.99
+Currency: CHF
+
+Name: LIVARNO Renforcé-Bettwäsche
+Price: 19.99
+Currency: CHF
+
+Name: LIVARNO Kuscheldecke
+Price: 7.99
+Currency: CHF
+
+Name: LIVARNO Matratzenauflage
+Price: 14.99
+Currency: CHF
+
+Name: MEXX Sweathoodie/Shirt
+Price: 24.9
+Currency: CHF
+
+Name: MEXX Sweathoodie/Shirt
+Price: 24.9
+Currency: CHF
+
+Name: MEXX Sweathose
+Price: 17.99
+Currency: CHF
+
+Name: MEXX Sweathose
+Price: 17.99
+Currency: CHF
+
+Name: ESMARA Kuschelsocken, 3er-Set
+Price: 2.99
+Currency: CHF
+
+Name: ESMARA Trenchjacke
+Price: 14.99
+Currency: CHF
+
+Name: ESMARA Steppweste
+Price: 12.99
+Currency: CHF
+
+Name: ESMARA Jeans Super Skinny Fit
+Price: 9.99
+Currency: CHF
+
+Name: ESMARA Jogger
+Price: 9.99
+Currency: CHF
+
+Name: ESMARA Thermoleggings/-strumpfhose/-kniestrümpfe, 2er-Set
+Price: 2.99
+Currency: CHF
+
+Name: ESMARA Stiefeletten
+Price: 12.99
+Currency: CHF
+
+Name: ESMARA MEN Pantoletten
+Price: 9.99
+Currency: CHF
+
+Name: LUPILU Sweatanzug, 2-tlg.
+Price: 6.99
+Currency: CHF
+
+Name: LUPILU Bodys, 2er-Set
+Price: 4.99
+Currency: CHF
+
+Name: LUPILU Sweatpullover
+Price: 4.99
+Currency: CHF
+
+Name: LUPILU Sweathose
+Price: 6.99
+Currency: CHF
+
+Name: LUPILU Leggings, 2er-Set
+Price: 4.99
+Currency: CHF
+
+Name: LUPILU Schlafsack
+Price: 12.99
+Currency: CHF
+
+Name: ANSMANN Sternenlicht-Leuchte
+Price: 14.99
+Currency: CHF
+
+Name: INFANTINO Trinkbecher
+Price: 4.99
+Currency: CHF
+
+Name: LEGO Spiel-Set
+Price: 6.99
+Currency: CHF
+
