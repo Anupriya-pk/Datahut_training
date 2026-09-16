@@ -433,8 +433,7 @@
 #     print("Title:", title)
 #     print("Price:", price)
 #     print("Location:", location)
-#     print("Property Type:", property_type)
-#     print("Bedrooms:", bedrooms)
+# #     print("Bedrooms:", bedrooms)
 #     print("Bathrooms:", bathrooms)
 #     print("Area:", area)
 
@@ -629,28 +628,6 @@ for url in urls:
                 bathrooms = html[bathroom_start:bathroom_end].strip()
 
     # --------------------------------
-    # PROPERTY TYPE
-    # --------------------------------
-
-    property_type = ""
-
-    property_start = html.find('aria-label="Property Type:')
-
-    if property_start != -1:
-
-        property_start = html.find(">", property_start)
-
-        if property_start != -1:
-
-            property_start += 1
-
-            property_end = html.find("</a>", property_start)
-
-            if property_end != -1:
-
-                property_type = html[property_start:property_end].strip()
-
-    # --------------------------------
     # CREATE ITEM
     # --------------------------------
 
@@ -659,7 +636,6 @@ for url in urls:
         title=title,
         price=price,
         location=location,
-        property_type=property_type,
         bedrooms=bedrooms,
         bathrooms=bathrooms,
         area=area
@@ -675,7 +651,6 @@ for url in urls:
     print("Title:", title)
     print("Price:", price)
     print("Location:", location)
-    print("Property Type:", property_type)
     print("Bedrooms:", bedrooms)
     print("Bathrooms:", bathrooms)
     print("Area:", area)

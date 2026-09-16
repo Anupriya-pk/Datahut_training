@@ -1,6 +1,4 @@
-
 import csv
-
 
 def export_items(items, filename="output.csv"):
 
@@ -9,7 +7,6 @@ def export_items(items, filename="output.csv"):
         "title",
         "price",
         "location",
-        "property_type",
         "bedrooms",
         "bathrooms",
         "area"
