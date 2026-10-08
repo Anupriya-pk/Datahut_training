@@ -80,7 +80,7 @@ def parse_reviews(product_id):
 
 # ---------------- MAIN ----------------
 urls = get_product_urls()
-urls = urls[:5]
+# urls = urls[:5]
 print('TOTAL PRODUCTS:', len(urls))
 
 with open(OUT_FILE, 'w', newline='', encoding='utf-8-sig') as f:
